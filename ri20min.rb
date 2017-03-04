@@ -42,12 +42,12 @@ if __FILE__ == $0
   mg.say_bye
 
   # Change name to be "Zeke"
-  mg.names = "Zeke"
+  mg.names = "Slothbear"
   mg.say_hi
   mg.say_bye
 
   # Change the names to an array of names
-  mg.names = ["Albert", "Brenda", "Charles", "Dave", "Englebert"]
+  mg.names = ["Mr. Growlypants", "Fruitsnacks", "Roarson", "Clawster", "Englebert"]
   mg.say_hi
   mg.say_bye
 
